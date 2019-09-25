@@ -1,0 +1,10 @@
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.exe.config
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.exe
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\bin\Debug\BackgroundWorkerExample.pdb
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.csprojAssemblyReference.cache
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.Form1.resources
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.Properties.Resources.resources
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.csproj.GenerateResource.cache
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.csproj.CoreCompileInputs.cache
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.exe
+C:\Users\MhamedMostefai\source\repos\BackgroundWorkerExample\BackgroundWorkerExample\obj\Debug\BackgroundWorkerExample.pdb
